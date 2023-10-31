@@ -1,0 +1,8 @@
+>>>>>>>>>JupyterLab<<<<<<<<<
+Install JupyterLab with pip:
+
+pip install jupyterlab
+
+Once installed, launch JupyterLab with:
+
+jupyter lab
