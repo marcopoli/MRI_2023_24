@@ -8,3 +8,4 @@ Descrizione dei contenuti:
 - **Elasticsearch**: Slide + Esercizi con Elasticsearch
 - **Elasticsearch SRC**: https://www.elastic.co/downloads/elasticsearch
 - **NLTK-SpaCy**: Google Colab Notebook
+- **Word Embeddings**: Google Colab Notebook + Gensim lib + Slides
