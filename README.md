@@ -9,4 +9,4 @@ Descrizione dei contenuti:
 - **Elasticsearch SRC**: https://www.elastic.co/downloads/elasticsearch
 - **NLTK-SpaCy**: Google Colab Notebooks
 - **Word Embeddings**: Google Colab Notebook + Gensim lib + Slides
-- - **Classificatori**: Google Colab Notebooks
+- **Classificatori**: Google Colab Notebooks
